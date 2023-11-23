@@ -1,1 +1,1 @@
-# DotNetBTL
+# Phần mềm quản lý Game
